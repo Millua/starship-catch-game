@@ -1,6 +1,6 @@
 # starship-catch-game
 Simulação 2D da captura do booster da Starship
-[index.html](https://github.com/user-attachments/files/23111658/index.html)
+](https://github.com/user-attachments/files/23111658/index.html)
 <!doctype html>
 
 <html lang="pt-BR">
